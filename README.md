@@ -148,3 +148,7 @@ collab-playground/
 ├── INSTRUCTOR.md                   # 강사용 레포 설정
 └── README.md
 ```
+
+## 자기소개 추가
+
+안녕하세요 저는 오성룡입니다.
